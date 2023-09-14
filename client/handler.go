@@ -1,9 +1,9 @@
 package client
 
 import (
-	"github.com/Akegarasu/blivedm-go/message"
-	"github.com/Akegarasu/blivedm-go/packet"
-	"github.com/Akegarasu/blivedm-go/utils"
+	"github.com/AceXiamo/blivedm-go/message"
+	"github.com/AceXiamo/blivedm-go/packet"
+	"github.com/AceXiamo/blivedm-go/utils"
 	log "github.com/sirupsen/logrus"
 	"runtime/debug"
 	"strings"
